@@ -1,0 +1,16 @@
+{
+  "name": "assignment-qr-code-den-3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "QR code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khadija Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "^3.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
